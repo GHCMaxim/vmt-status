@@ -4,7 +4,7 @@ repo: vmt-status # The name of this repository
 assignees:
   - GHCMaxim
 sites:
-  - name: Coupons Frontend
+  - name: Coupons Frontend 
     url: $VMT_FRONT
   - name: Coupons Backend
     url: $VMT_BACK
