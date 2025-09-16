@@ -1,7 +1,7 @@
 url: $VMT_BACK
-status: down
-code: 502
-responseTime: 672
-lastUpdated: 2025-09-16T04:28:45.589Z
+status: up
+code: 200
+responseTime: 926
+lastUpdated: 2025-09-16T04:42:41.290Z
 startTime: 2025-08-14T09:01:39.991Z
 generator: Upptime <https://github.com/upptime/upptime>
