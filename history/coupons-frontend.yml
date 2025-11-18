@@ -1,7 +1,7 @@
 url: $VMT_FRONT
-status: down
-code: 500
-responseTime: 225
-lastUpdated: 2025-11-18T15:11:13.212Z
+status: up
+code: 200
+responseTime: 892
+lastUpdated: 2025-11-18T15:35:20.398Z
 startTime: 2025-08-14T09:01:38.184Z
 generator: Upptime <https://github.com/upptime/upptime>
